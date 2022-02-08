@@ -7,8 +7,7 @@ style: resume
 
 ## Standards Based
 
-Being so adimate about informatics standards, i couldn't but use a standard also
-for the CV: i have used the EuropassCV format. The PDF was generated from the
+In keeping with my commitment to informatics standards, i have decided to present my CV in another standard, the EuropassCV format. The PDF was generated from the
 [europass European Union](https://europa.eu/europass/) website and it includes
 the CV in Europass XML format. You can extract the XML with `pdfdetach`.
 
